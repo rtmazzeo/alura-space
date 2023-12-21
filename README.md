@@ -60,4 +60,4 @@ Information about the DRY practice (Don't Repeat Yourself).
 The base.html file was created, which will contain repeated code in various templates to avoid repetition.
 Partials were used to continue with the DRY practice, avoiding more code repetition and making the site more scalable and efficient.
 
-![Imagem](certificados/certificado_django001)
+![Imagem](certificados/certificado_django001.png)
