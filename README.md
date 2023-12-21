@@ -19,3 +19,9 @@
 - Criou-se a primeira app (python manage.py startapp galeria);
 - Criou-se a primeira página personalizada na web configurando rotas dentro dos arquivos views.py e urls.py (utilizando-se boas práticas de criação de um arquivo urls.py para cada app);
 - Isolou-se o template da app galeria, (nova pasta chamada templates).
+
+  ## Módulo 4:
+
+- Aprendemos a como organizar melhor os arquivos estáticos através da criação pastas indicadoras de cada app dentro da pasta templates;
+- Código Python embedado dentro de arquivos HTML;
+- Implementou-se um novo template HTML personalizado junto de diversos arquivos estáticos para melhorar a aparência do site.
