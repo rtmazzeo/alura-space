@@ -10,5 +10,12 @@
 ## Módulo 2:
 
 - Mudou-se a timezone e a linguagem do projeto;
-- aumentou-se a segurança do projeto protegendo a SECRET_KEY e instalando o pacote python-dotenv e criando o arquivo .env;
+- Aumentou-se a segurança do projeto protegendo a SECRET_KEY e instalando o pacote python-dotenv e criando o arquivo .env;
 - Subiu-se o projeto para um repositório remoto no github e tomamos o cuidado de criar o arquivo .gitignore para não deixarmos vulneráveis dados sensíveis do nosso projeto.
+
+  ## Módulo 3:
+
+- Entendemos a diferença de projeto e app no universo de desenvolvimento com Django;
+- Criou-se a primeira app (python manage.py startapp galeria);
+- Criou-se a primeira página personalizada na web configurando rotas dentro dos arquivos views.py e urls.py (utilizando-se boas práticas de criação de um arquivo urls.py para cada app);
+- Isolou-se o template da app galeria, (nova pasta chamada templates).
