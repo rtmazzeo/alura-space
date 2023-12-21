@@ -25,3 +25,9 @@
 - Aprendemos a como organizar melhor os arquivos estáticos através da criação pastas indicadoras de cada app dentro da pasta templates;
 - Código Python embedado dentro de arquivos HTML;
 - Implementou-se um novo template HTML personalizado junto de diversos arquivos estáticos para melhorar a aparência do site.
+
+## Módulo 5:
+
+- Informações sobre a prática DRY (Don’t Repeat Yourself - Não se repita);
+- criação do arquivo base.html que irá conter código repetido em diversos templates para evitar essa repetição;
+- utilização de Partials para seguir com a prática DRY, evitando mais repetição de código e tornando mais eficiente a escalabilidade do site
